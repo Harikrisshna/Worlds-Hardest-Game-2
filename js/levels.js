@@ -521,6 +521,6 @@ var levels = [
 		[1,-1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1],
 		[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
 		],
-		tip: "Blop Switch, by Adi Yenuubarii. Thanks for playing!",
+		tip: "Blop Switch, by K.Harikrisshna. Thanks for playing!",
 	},
 ]
